@@ -86,37 +86,6 @@ npx prisma migrate dev --name init
 npm run dev
 ```
 
-## 截图预览
-
-以下是系统主要页面的截图：
-
-<table>
-  <tr>
-    <td style="border:1px solid black"><img src="public/images/homepage.png"></td>
-  </tr>
-  <tr>
-    <td>*首页 - 2025-01-15 15:00:00*</td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <td style="border:1px solid black"><img src="public/images/categories.png"></td>
-  </tr>
-  <tr>
-    <td>*商品分类页 - 2025-01-15 15:01:00*</td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <td style="border:1px solid black"><img src="public/images/product-detail.png"></td>
-  </tr>
-  <tr>
-    <td>*商品详情页 - 2025-01-15 15:02:00*</td>
-  </tr>
-</table>
-
 ## 关注我们
 
 抖音ID：1036110286  
