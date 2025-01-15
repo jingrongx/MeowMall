@@ -1,0 +1,13 @@
+{
+  "addAddress": "添加新地址",
+  "name": "收货人",
+  "phone": "联系电话",
+  "province": "省份",
+  "city": "城市",
+  "district": "区/县",
+  "detail": "详细地址",
+  "setAsDefault": "设为默认地址",
+  "cancel": "取消",
+  "save": "保存",
+  "saving": "保存中..."
+} 

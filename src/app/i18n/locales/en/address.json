@@ -1,0 +1,13 @@
+{
+  "addAddress": "Add New Address",
+  "name": "Recipient Name",
+  "phone": "Phone Number",
+  "province": "Province",
+  "city": "City",
+  "district": "District",
+  "detail": "Detailed Address",
+  "setAsDefault": "Set as Default Address",
+  "cancel": "Cancel",
+  "save": "Save",
+  "saving": "Saving..."
+} 
